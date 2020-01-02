@@ -51,5 +51,5 @@ WorkFLows是我以Array&kawvin大神版的[VimDesktop](https://github.com/linxin
 
 致谢**Array & kawvin & EZ & liuyukuan & 天甜** 大大们 提供优质代码！
 
-#### 7.请喝咖啡支持！
+#### 7.请喝咖啡吗！
 ![微信支付](https://i.loli.net/2019/08/28/5F9byl4WXnfhkUs.png)![支付宝支付](https://i.loli.net/2019/08/28/TtQ5l1ChLBzj3sS.png)
